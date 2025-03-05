@@ -4,17 +4,17 @@
     "url": "https://www.holidaybows.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.holidaybows.com.ico",
     "slug": "holidaybows",
-    "status": "up",
-    "uptime": "11.26%",
-    "uptimeDay": "26.20%",
-    "uptimeWeek": "27.05%",
-    "uptimeMonth": "11.26%",
-    "uptimeYear": "11.26%",
-    "time": 292,
-    "timeDay": 294,
-    "timeWeek": 300,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "status": "down",
+    "uptime": "11.63%",
+    "uptimeDay": "27.06%",
+    "uptimeWeek": "27.18%",
+    "uptimeMonth": "11.63%",
+    "uptimeYear": "11.63%",
+    "time": 291,
+    "timeDay": 289,
+    "timeWeek": 299,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2025-03-05": 424,
       "2025-03-04": 983,
@@ -43,7 +43,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 140
+      "2025-02-06": 4
     }
   },
   {
