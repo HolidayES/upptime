@@ -24,17 +24,19 @@
     "url": "https://www.specialtywraps.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.specialtywraps.com.ico",
     "slug": "specialtywraps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 495,
-    "timeWeek": 545,
-    "timeMonth": 585,
-    "timeYear": 580,
-    "dailyMinutesDown": {}
+    "time": 575,
+    "timeDay": 356,
+    "timeWeek": 509,
+    "timeMonth": 574,
+    "timeYear": 575,
+    "dailyMinutesDown": {
+      "2025-04-17": 0
+    }
   }
 ]
