@@ -4,19 +4,19 @@
     "url": "https://www.holidaybows.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.holidaybows.com.ico",
     "slug": "holidaybows",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.91%",
-    "time": 317,
-    "timeDay": 475,
-    "timeWeek": 521,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.07%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.90%",
+    "time": 318,
+    "timeDay": 472,
+    "timeWeek": 517,
     "timeMonth": 338,
-    "timeYear": 317,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-04-17": 89
+      "2025-04-17": 99
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.specialtywraps.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.specialtywraps.com.ico",
     "slug": "specialtywraps",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 553,
-    "timeDay": 347,
-    "timeWeek": 431,
-    "timeMonth": 529,
-    "timeYear": 553,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 551,
+    "timeDay": 351,
+    "timeWeek": 429,
+    "timeMonth": 526,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2025-04-17": 27
+      "2025-04-17": 37
     }
   }
 ]
