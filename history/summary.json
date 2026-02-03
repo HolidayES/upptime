@@ -26,9 +26,9 @@
     "url": "https://www.specialtywraps.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.specialtywraps.com.ico",
     "slug": "specialtywraps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -38,6 +38,7 @@
     "timeMonth": 601,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2026-02-03": 0,
       "2025-11-18": 206,
       "2025-07-27": 25,
       "2025-04-17": 27
