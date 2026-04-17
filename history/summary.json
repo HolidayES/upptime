@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.holidaybows.com.ico",
     "slug": "holidaybows",
     "status": "down",
-    "uptime": "91.22%",
+    "uptime": "91.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.55%",
-    "time": 662,
-    "timeDay": 127,
-    "timeWeek": 132,
-    "timeMonth": 117,
-    "timeYear": 741,
+    "uptimeYear": "89.28%",
+    "time": 661,
+    "timeDay": 93,
+    "timeWeek": 117,
+    "timeMonth": 118,
+    "timeYear": 740,
     "dailyMinutesDown": {
-      "2026-04-16": 89,
+      "2026-04-17": 87,
+      "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -59,8 +60,7 @@
       "2026-02-24": 682,
       "2026-02-03": 56,
       "2025-11-18": 155,
-      "2025-07-27": 36,
-      "2025-04-17": 108
+      "2025-07-27": 36
     }
   },
   {
@@ -69,18 +69,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.specialtywraps.com.ico",
     "slug": "specialtywraps",
     "status": "down",
-    "uptime": "91.23%",
+    "uptime": "91.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.56%",
-    "time": 734,
-    "timeDay": 83,
+    "uptimeYear": "89.29%",
+    "time": 733,
+    "timeDay": 147,
     "timeWeek": 122,
-    "timeMonth": 118,
+    "timeMonth": 120,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2026-04-16": 89,
+      "2026-04-17": 87,
+      "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -123,8 +124,7 @@
       "2026-02-24": 682,
       "2026-02-03": 55,
       "2025-11-18": 206,
-      "2025-07-27": 25,
-      "2025-04-17": 27
+      "2025-07-27": 25
     }
   }
 ]
